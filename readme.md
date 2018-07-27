@@ -8,3 +8,9 @@
 * Mono Alphbetic Cipher
 	* encrypt
 	* decrypt
+* Poly alphabetic Cipher
+	* encrypt
+	* decrypt
+* Play fair Cipher
+	* encrypt
+	* decrypt
