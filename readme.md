@@ -14,3 +14,5 @@
 * Play fair Cipher
 	* encrypt
 	* decrypt
+* Hill Cipher
+	* encrypt
