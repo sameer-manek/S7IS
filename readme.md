@@ -15,4 +15,7 @@
 	* encrypt
 	* decrypt
 * Hill Cipher
-	* encrypt
+	* crypt
+	* decrypt
+* Deffie Hellman Key Exchange
+	* keygen
