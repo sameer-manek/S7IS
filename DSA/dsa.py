@@ -57,7 +57,7 @@ print (user2PublicKey.exportKey())
 
 # Read data from file
 with open("/Users/macbookproretina/Desktop/RSA 1024/ID.txt", "r", ) as id:
-    id_data = id.readlines()
+    id_data = id.readlines('<path-to-id.txt>', 'r')
 
 # Convert array from two dimension to 1 dimension
 personal_id = []
